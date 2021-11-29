@@ -3,7 +3,7 @@
 ## Overview
 This exercise is meant to showcase your technical implementation & design abilities.
 
-Please implement the following set of requirements. It is expected that you will create a repository in GitHub and share the link with us when complete.
+Please implement the following set of requirements. It is expected that you will fork this repository in GitHub and share the link with us when complete.
 
 
 ## Functional Requirements
